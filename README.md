@@ -1,16 +1,14 @@
-## Hi there 👋
+DEKOW
+'m a passionate **Computer Science Student** at  (GAU)** 
+**Frontend Software Engineer**
+i build applications that make life more efficient and productive.
 
-<!--
-**Dekow169/Dekow169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 What I Do
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on sharpening my skills in modern frontend technologies.
+- 🌱 I’m deeply exploring **React.js, PYTHON, and TypeScript**.
+- 👯 I’m looking to collaborate on innovative open-source projects.
+- 💡 I'm passionate about **HTML\CSS**, **web performance**, and **clean code**.
+- ⚡ Fun fact: I believe the right tool can turn a chore into a delight.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
